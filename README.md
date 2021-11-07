@@ -1,4 +1,7 @@
 # The-Flipper
+
+![The Flipper Tears Round.jpg](The Flipper Tears Round.jpg)
+
 KiCad and Gerber files for this quirky 28 key split keyboard. 
 
 Created using the amazing Ergogen tool: https://github.com/mrzealot/ergogen
