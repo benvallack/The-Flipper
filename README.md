@@ -1,6 +1,6 @@
 # The-Flipper
 
-![The Flipper Tears Round.jpg](The Flipper Tears Round.jpg)
+![The Flipper Tears Round.jpg](The%20Flipper%20Tears%20Round.jpg)
 
 KiCad and Gerber files for this quirky 28 key split keyboard. 
 
